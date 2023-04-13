@@ -5,7 +5,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/silnshadow/ReadForMe.git
+``` git clone https://github.com/silnshadow/ReadForMe.git```
 Install the required dependencies:
 
 Copy code
