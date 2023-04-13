@@ -4,11 +4,16 @@ Installation
 
 Clone the repository:
 
-``` git clone https://github.com/silnshadow/ReadForMe.git```
+``` 
+git clone https://github.com/silnshadow/ReadForMe.git
+
+```
 
 Install the required dependencies:
 
-```pip install -r requirements.txt
+```
+pip install -r requirements.txt
+
 ```
 
 Usage
@@ -18,6 +23,7 @@ Run the script with the following command:
 
 ```
 python read_for_me.py --file path/to/your/file.pdf
+
 ```
 This will read out the text from the PDF file.
 
